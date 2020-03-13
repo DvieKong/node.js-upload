@@ -1,7 +1,7 @@
 # node.js-upload
 
-node服务器上传, 本地静态调用接口
-# http://ourjs.com/detail/529ca5950cb6498814000005
+#node服务器上传, 支持本地项目调用上传接口
+原为链接: http://ourjs.com/detail/529ca5950cb6498814000005
 以上为源码地址网址,再次感谢原作者, 本套代码实在原代码基础上的优化
 
 # 实现功能
@@ -22,7 +22,9 @@ node服务器上传, 本地静态调用接口
 
 3.node安装成功后,到项目根目录执行 npm install   安装相关依赖
 
-3.执行:  node index.js命令, 启动node服务
+4. Error: Cannot find module 'formidable' 执行 npm install formidable
+
+5.执行:  node index.js命令, 启动node服务
 
 
 #接口调用

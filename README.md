@@ -22,7 +22,7 @@ node服务器上传, 本地静态调用接口
 
 3.node安装成功后,到项目根目录执行 npm install   安装相关依赖
 
-3.执行:  node inde.js命令, 启动node服务
+3.执行:  node index.js命令, 启动node服务
 
 
 #接口调用

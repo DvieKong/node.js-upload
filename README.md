@@ -6,7 +6,7 @@ node服务器上传, 本地静态调用接口
 
 # 实现功能
 
-1. node服务启动上传文件 
+1.node服务启动上传文件 
 
 2.本地项目启动,连接node服务图片上传,本地tmp文件看看到上传的文件
 
@@ -16,13 +16,13 @@ node服务器上传, 本地静态调用接口
 
 # 项目部署
 
-1. git clone 或download
+1.git clone 或download
 
 2.node环境安装详见node官网
 
 3.node安装成功后,到项目根目录执行 npm install   安装相关依赖
 
-3. 执行:  node inde.js命令, 启动node服务
+3.执行:  node inde.js命令, 启动node服务
 
 
 #接口调用
